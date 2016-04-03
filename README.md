@@ -9,7 +9,7 @@ Set up a config file that looks like:
 ```js
 {
   "user": {
-    "id_str": your_userid, // account to track eg "17461978
+    "id_str": "your_userid", // account to track eg "17461978"
   },
   "twitter_api": {
     "consumer_key": "XXXX",
