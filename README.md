@@ -28,16 +28,16 @@ then run `node app`
 
 ### Commands:
 
-#### All Lights On
+#### On
 `@username lights on`
 
-#### All Lights Off
+#### Off
 `@username lights off`
 
-#### All Lights Single Color
+#### Single Color
 `@username chartreuse`
 
-#### All Lights Multi Color
+#### Multi Color
 `@username coral salmon papaya whip crimson`
 
 ## Supported Colors:
