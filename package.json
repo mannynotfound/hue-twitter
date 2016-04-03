@@ -1,0 +1,16 @@
+{
+  "name": "hue-twitter",
+  "version": "1.0.0",
+  "description": "Control Phillips Hue lights with Twitter.",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Manny404",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash": "^4.7.0",
+    "request": "^2.69.0",
+    "twitter": "^1.2.5"
+  }
+}
